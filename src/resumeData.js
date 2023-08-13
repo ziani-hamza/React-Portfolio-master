@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "mohamed amine el mounkir",
     "role": "Software Engineer",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"https://www.linkedin.com/in/mohamed-amine-el-mounkir-8421b1264/",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
